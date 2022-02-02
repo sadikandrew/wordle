@@ -19,9 +19,10 @@ All creative rights belong to its developer.
 - I can submit my own list of words.
 
 - I was bored waiting for an appointment, so I coded this on my phone (The main reason).
+- Liam - because I saw it on my github, probably should be doing other stuff
 
 ## Disclaimer
 
-PEP8 was not a thought when coding on a phone.
+PEP8 was a thought because i don't like yellow lines (pycharm).
 
 Enjoy!
